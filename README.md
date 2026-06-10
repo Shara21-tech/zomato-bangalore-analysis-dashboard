@@ -78,6 +78,14 @@ Identified restaurants with the highest number of reviews.
 * Business Insights Section
 * Zomato-Themed Dashboard Design
 
+*Dashboard Overview
+
+<img width="947" height="487" alt="Dashboard ss 1" src="https://github.com/user-attachments/assets/2cd835b5-03b2-4523-9620-1214cef70d63" />
+
+*Business Insight
+
+<img width="1296" height="606" alt="Insight ss 1" src="https://github.com/user-attachments/assets/cf2efc55-32b4-464b-a5a4-ab423758e094" />
+
 ## Key Skills Demonstrated
 
 * Data Cleaning
